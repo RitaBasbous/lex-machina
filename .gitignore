@@ -1,0 +1,6 @@
+/.ropeproject
+__pycache__
+/.venv
+/.ruff_cache
+/outputs
+.env
